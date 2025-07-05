@@ -6,7 +6,7 @@ Commitly is a sleek desktop app that helps developers generate clear and meaning
 
 ---
 ## Image
-![Commitly preview](public/commitly-preview.png)
+![Commitly preview](public/commitly.png)
 
 ## ✨ Features
 
