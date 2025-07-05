@@ -5,6 +5,8 @@
 Commitly is a sleek desktop app that helps developers generate clear and meaningful Git commit messages — using the power of AI. Describe your code changes in natural language, and let Commitly craft the commit message for you!
 
 ---
+## Image
+![Commitly preview](public/commitly-preview.png)
 
 ## ✨ Features
 
